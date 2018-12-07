@@ -1,0 +1,1 @@
+# preloader img for site
